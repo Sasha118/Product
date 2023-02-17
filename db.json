@@ -1,20 +1,21 @@
-{
-"users": [
-{
-"id": 1,
-"name": "Yehor",
-"photo_url": "https://img.freepik.com/free-photo/landscape-of-morning-fog-and-mountains-with-hot-air-balloons-at-sunrise_335224-794.jpg",
-"balance": 2000
-}
-],
-"products": [
-{
-"id": 1,
-"name": "LED display",
-"description": "1200x700px",
-"price": 300,
-"author_id": 1,
-"photo_url": "https://images.prom.ua/2335048805_w640_h640_polnotsvetnyj-led-ekran.jpg"
-}
-]
+
+	"users": [
+		{
+			"id": 1,
+			"name": "Sasha",
+			"photo_url": "https://cdn-icons-png.flaticon.com/512/3081/3081822.png",
+			"balance": 2000
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "Red socks",
+			"description": "Very red socks",
+			"price": 250,
+			"author-id": 1,
+			"photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dred%2BSocks&psig=AOvVaw0liU4xZ1U07A8RAPclYauh&ust=1676738079862000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC4u5_-nP0CFQAAAAAdAAAAABAJ",
+			
+		}
+	]
 }
