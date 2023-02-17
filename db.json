@@ -1,0 +1,20 @@
+{
+"users": [
+{
+"id": 1,
+"name": "Yehor",
+"photo_url": "https://img.freepik.com/free-photo/landscape-of-morning-fog-and-mountains-with-hot-air-balloons-at-sunrise_335224-794.jpg",
+"balance": 2000
+}
+],
+"products": [
+{
+"id": 1,
+"name": "LED display",
+"description": "1200x700px",
+"price": 300,
+"author_id": 1,
+"photo_url": "https://images.prom.ua/2335048805_w640_h640_polnotsvetnyj-led-ekran.jpg"
+}
+]
+}
