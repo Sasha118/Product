@@ -2,22 +2,22 @@
 	"users": [
 		{
 			"id": 1,
-			"name": "Sasha",
-			"photo_url": "https://cdn-icons-png.flaticon.com/512/3081/3081822.png",
+			"name": "Nastya",
+			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/1eea242da48c1f869caeba163e59677b-beauty-girls-the-beauty.jpg",
 			"balance": 2000
 		},
 
 		{
 			"id": 1,
-			"name": "Misha",
-			"photo_url": "https://cdn-icons-png.flaticon.com/512/3081/3081822.png",
+			"name": "Dasha",
+			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/1e0c85d91fbf8fc6a4239a5a89d151b6.jpg",
 			"balance": 3000
 		},
 
 		{
 			"id": 1,
-			"name": "Yehor",
-			"photo_url": "https://cdn-icons-png.flaticon.com/512/3081/3081822.png",
+			"name": "Liza",
+			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/01-1502-1985267725.jpg",
 			"balance": 4000
 		}
 
