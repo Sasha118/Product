@@ -24,7 +24,7 @@ header{
 	grid-gap: 1rem;
 }
 
-.product{
+.products{
 	background: rgba(0, 0, 0, 0.5);
 	padding: 1rem;
 	border-radius: 1rem;
@@ -34,15 +34,16 @@ header{
 	justify-content: space-between;
 }
 
-.product-photo {
+.products-photo {
 	max-width: 100px;
+	max-height: 100px;
 	box-shadow: 0 0 5px #000;
 	border-radius: 0.5rem;
 	margin: 0.5rem 0;
 	background: #fff;
 }
 
-.product a {
+.products a {
 	color: #fff;
 	margin: 5px 0;
 }
@@ -79,3 +80,63 @@ button {
 #cart {
 	position: relative;
 }
+
+.hide {
+	display: none;
+}
+
+.product button {
+	transition: 0.3s;
+}
+
+.product button:hover {
+	background: rgb(170, 170, 255);
+}
+
+.profile-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 70vh;
+	flex-basis: 20rem;
+	text-align: center;
+	border-radius: 1rem;
+}
+
+.profile-img{
+	border-radius: 50%;
+	box-shadow: 1px 1px 5px 0 #000;
+	width: 10rem;
+	height: 10rem;
+	margin: 2rem 0;
+	background: #fff;
+}
+
+.products-link{
+	font-size: 2rem;
+	color: #000;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.products-link:hover{
+	transform: scale(1.2);
+}
+
+#profile{
+	background: tomato;
+	padding: 1rem 3rem;
+}
+
+@media (max-width: 1000px) {
+	#product-grid{
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (max-width: 650px) {
+	#product-grid{
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+
