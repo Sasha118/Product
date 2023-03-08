@@ -3,20 +3,23 @@
 		{
 			"id": 1,
 			"name": "Nastya",
+			"sirname": "Voroncova",
 			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/1eea242da48c1f869caeba163e59677b-beauty-girls-the-beauty.jpg",
 			"balance": 2000
 		},
 
 		{
-			"id": 1,
+			"id": 2,
 			"name": "Dasha",
+			"sirname": "Voroncova",
 			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/1e0c85d91fbf8fc6a4239a5a89d151b6.jpg",
 			"balance": 3000
 		},
 
 		{
-			"id": 1,
+			"id": 3,
 			"name": "Liza",
+			"sirname": "Golodova",
 			"photo_url": "https://demotivation.ru/wp-content/uploads/2020/02/01-1502-1985267725.jpg",
 			"balance": 4000
 		}
