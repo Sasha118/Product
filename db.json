@@ -32,7 +32,7 @@
 			"description": "Very red socks",
 			"price": 250,
 			"author_id": 1,
-			"photo_url": "https://kitdarue.com/image/cache/catalog/products/noski/blankful/shkarpetki-bazovi-bordovi-odnotonni-blankful-475x475.jpg"
+			"photo_url": "https://kitdarue.com/image/cache/catalog/products/noski/blankful/shkarpetki-bazovi-bordovi-odnotonni-blankful.jpg"
 			
 		},
 		{
@@ -41,7 +41,7 @@
 			"description": "Very blue socks",
 			"price": 350,
 			"author_id": 1,
-			"photo_url": "https://lesox.com.ua/image/cache/catalog/00004w/2ABCF7EC-23B7-41F6-B4A0-99CF33F76AA7-600x600.jpeg"
+			"photo_url": "https://lesox.com.ua/image/cache/catalog/00004w/2ABCF7EC-23B7-41F6-B4A0-99CF33F76AA7.jpeg"
 			
 		},
 		{
@@ -50,7 +50,7 @@
 			"description": "Very orange socks",
 			"price": 220,
 			"author_id": 2,
-			"photo_url": "https://highlander.com.ua/image/cache/catalog/products/vendor1/shkarpetki-turbat-summer-trip-oranzhevij-orange3-750x750.jpg"
+			"photo_url": "https://highlander.com.ua/image/cache/catalog/products/vendor1/shkarpetki-turbat-summer-trip-oranzhevij-orange3.jpg"
 			
 		},
 		{
@@ -59,7 +59,7 @@
 			"description": "Very brown socks",
 			"price": 150,
 			"author_id": 2,
-			"photo_url": "https://lesox.com.ua/image/cache/catalog/00009w/45A9B370-1C5C-40C2-B479-18747E0F40B3-600x600.jpeg"
+			"photo_url": "https://lesox.com.ua/image/cache/catalog/00009w/45A9B370-1C5C-40C2-B479-18747E0F40B3.jpeg"
 			
 		},
 		{
@@ -68,7 +68,7 @@
 			"description": "Very white socks",
 			"price": 165,
 			"author_id": 3,
-			"photo_url": "https://lesox.com.ua/image/cache/catalog/00000/F74D351B-56F6-4820-98F9-D2C5CAE84563-600x600.jpeg"
+			"photo_url": "https://lesox.com.ua/image/cache/catalog/00000/F74D351B-56F6-4820-98F9-D2C5CAE84563.jpeg"
 			
 		},
 		{
@@ -77,7 +77,7 @@
 			"description": "Very black socks",
 			"price": 200,
 			"author_id": 3,
-			"photo_url": "https://lesox.com.ua/image/cache/catalog/0020/F94B5180-96F3-4AB7-9E72-EA883D5C452F-600x600.jpeg"
+			"photo_url": "https://lesox.com.ua/image/cache/catalog/0020/F94B5180-96F3-4AB7-9E72-EA883D5C452F.jpeg"
 			
 		}
 	]
